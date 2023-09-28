@@ -221,5 +221,5 @@ print('hello');
 - [ ] Task 1
 - [x] Task 2
 ```
-Markdown Checkboxes is installed.
+Markdown Checkboxes are installed.
 ```
