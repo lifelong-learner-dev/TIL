@@ -212,10 +212,10 @@ print('hello');
 ```
 ![Description](the link address to be connected)
 ```
-![Cat](https://cdn.pixabay.com/photo/2014/04/13/20/49/cat-323262_1280.jpg)
+![Dog](images/dog1.jpg)
 
 ### Add a link to the image
-[![Cat](https://cdn.pixabay.com/photo/2014/04/13/20/49/cat-323262_1280.jpg)](https://naver.com)
+[![Dog](images/dog2.jpg)](https://naver.com)
 
 ## Checkbox
 - [ ] Task 1
